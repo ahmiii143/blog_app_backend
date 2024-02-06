@@ -1,0 +1,9 @@
+# Blog Backend
+
+This is a Node.js backend application for managing blog posts and comments using a MongoDB database. The system supports CRUD operations for blog posts and comments, including the deletion of comments.
+
+## Requirements
+
+- Node.js
+- MongoDB
+- npm (Node Package Manager)
